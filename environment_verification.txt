@@ -1,0 +1,9 @@
+==================================================
+✅ Python Version: 3.11.9
+✅ OS: Windows 10
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (c:\Users\Adama Baba\OneDrive\Desktop\ai_labs\first_project\.venv)
+==================================================
